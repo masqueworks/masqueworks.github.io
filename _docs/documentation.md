@@ -1,6 +1,6 @@
 ---
 title: Documentation
-layout: home
+layout: default
 ---
 
 # Masque
