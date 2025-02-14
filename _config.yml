@@ -5,6 +5,10 @@ favicon_ico: "/images/masqueicon.ico"
 
 url: https://masqueworks.com
 
+collections:
+  docs:
+    output: true
+    
 color_scheme: dark
 
 footer_content: "Copyright &copy; 2025 Masque Works, LLC."
