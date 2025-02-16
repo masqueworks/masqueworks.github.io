@@ -10,20 +10,20 @@ publishable-key="pk_live_51QrsylGOFLTmIJpudO4VBYgvoW3bZS0DBJw47t52wQGY6TU96s6hkP
 
 # Feature Comparison: Trial vs. Licensed Version
 
-| Feature         | Trial Version     | Licensed Version  |
+| Feature         | Trial Version     | Subscription Version  | Perpetual Version  |
+|----------------|------------------|------------------|------------------|
+| **Usage Duration** | Unlimited | Unlimited | Unlimited |
+| **Feature Access** | Limited core features | Full feature set | Full feature set |
+|----------------|------------------|------------------|------------------|
+| **Customization** | Limited options | Full customization available | Full customization available |
+| _  Max Gizmo Macros_ | 4 | Unlimited | Unlimited |
+| _  Max Gizmo Groups_ | 4 | Unlimited | Unlimited |
+| _  Max Simultaneous Audio_ | 2 | Unlimited | Unlimited |
+| _  Max Video Surfaces_ | 1 | Unlimited | Unlimited |
+| _  Max DMX Gizmos_ | 32 | Unlimited | Unlimited |
+| _  Max Media Files_ | 32 | Unlimited | Unlimited |
+| _  Max Cues_ | 32 | Unlimited | Unlimited |
 |----------------|------------------|------------------|
-| **Usage Duration** | Unlimited | Unlimited |
-| **Feature Access** | Limited core features | Full feature set |
-|----------------|------------------|------------------|
-| **Customization** | Limited options | Full customization available |
-| _Max Gizmo Macros_ | 4 | Unlimited |
-| _Max Gizmo Groups_ | 4 | Unlimited |
-| _Max Simultaneous Audio_ | 2 | Unlimited |
-| _Max Video Surfaces_ | 1 | Unlimited |
-| _Max DMX Gizmos_ | 32 | Unlimited |
-| _Max Media Files_ | 32 | Unlimited |
-| _Max Cues_ | 32 | Unlimited |
-|----------------|------------------|------------------|
-| **Customer Support** | Basic or community support | Priority support |
-| **Updates & Upgrades** | Minor updates only | Regular updates & major upgrades |
+| **Customer Support** | Basic or community support | Priority support | Priority support |
+| **Updates & Upgrades** | Minor updates only | Regular updates & major upgrades | Regular updates |
 
