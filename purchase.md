@@ -10,7 +10,7 @@ publishable-key="pk_live_51QrsylGOFLTmIJpudO4VBYgvoW3bZS0DBJw47t52wQGY6TU96s6hkP
 
 # Feature Comparison: Trial vs. Licensed Version
 
-| Feature         | Trial Version     | Subscription Version  | Perpetual Version  |
+| Feature         | Trial     | Perpetual | Subscription |
 |----------------|------------------|------------------|------------------|
 | **Usage Duration** | Unlimited | Unlimited | Unlimited |
 | **Feature Access** | Limited core features | Full feature set | Full feature set |
@@ -25,5 +25,5 @@ publishable-key="pk_live_51QrsylGOFLTmIJpudO4VBYgvoW3bZS0DBJw47t52wQGY6TU96s6hkP
 | _  Max Cues_ | 32 | Unlimited | Unlimited |
 |----------------|------------------|------------------|------------------|
 | **Customer Support** | Basic or community support | Priority support | Priority support |
-| **Updates & Upgrades** | Minor updates only | Regular updates & major upgrades | Regular updates |
+| **Updates & Upgrades** | Minor updates only | Regular updates | Regular updates & major upgrades |
 
