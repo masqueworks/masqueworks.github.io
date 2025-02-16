@@ -1,5 +1,6 @@
 ---
 title: Documentation
+layout: default
 ---
 
 # Masque Documentation
