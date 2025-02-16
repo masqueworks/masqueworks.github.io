@@ -10,22 +10,12 @@ publishable-key="pk_live_51QrsylGOFLTmIJpudO4VBYgvoW3bZS0DBJw47t52wQGY6TU96s6hkP
 
 # Feature Comparison: Trial vs. Licensed Version
 
-## General
-
 | Feature         | Trial Version     | Licensed Version  |
 |----------------|------------------|------------------|
 | **Usage Duration** | Unlimited | Unlimited |
 | **Feature Access** | Limited core features | Full feature set |
-
-## User Experience
-
-| Feature         | Trial Version     | Licensed Version  |
 |----------------|------------------|------------------|
 | **Customization** | Limited options | Full customization available |
-
-## Support & Updates
-
-| Feature         | Trial Version     | Licensed Version  |
 |----------------|------------------|------------------|
 | **Customer Support** | Basic or community support | Priority support |
 | **Updates & Upgrades** | Minor updates only | Regular updates & major upgrades |
