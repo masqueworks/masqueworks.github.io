@@ -1,6 +1,7 @@
 ---
 title: Performance Window
 layout: default
+parent: Documentation
 ---
 
 # Performance Window
