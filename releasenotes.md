@@ -1,6 +1,7 @@
 ---
 title: Release Notes
 layout: default
+parent: Documentation
 ---
 
 # v0.9.9.10 (Feb 15, 2025)
