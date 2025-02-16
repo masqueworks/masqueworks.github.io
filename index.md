@@ -13,6 +13,7 @@ nav_order: 0
 [Download the Latest Version](https://github.com/masqueworks/masque-app-deploy/releases/download/v0.9.9.10/Masque-0.9.9.10-Installer.msi){: .btn }
 </span>
 <p>(Masque-0.9.9.10-Installer.msi)</p>
+<p>[Latest Release Notes](releasenotes.md)</p>
 
 <span class="text-grey-dk-000">
 _This software uses code of [FFmpeg](http://ffmpeg.org) licensed under the [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) and its source can be downloaded [here](https://github.com/BtbN/FFmpeg-Builds/releases/tag/autobuild-2024-08-31-12-50)._
