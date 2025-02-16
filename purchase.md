@@ -8,7 +8,7 @@ layout: default
 publishable-key="pk_live_51QrsylGOFLTmIJpudO4VBYgvoW3bZS0DBJw47t52wQGY6TU96s6hkPaKFjahkqG9zJeXcJ4IGWo8FmPAHlnxmtZq00p9VyIJBE">
 </stripe-pricing-table>
 
-# Feature Comparison: Trial vs. Licensed Version
+# Licensing Feature Comparison
 
 | Feature         | Trial     | Perpetual | Subscription |
 |----------------|------------------|------------------|------------------|
