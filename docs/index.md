@@ -5,7 +5,7 @@ layout: default
 
 # Masque Documentation
 
-![image](./images/Masque_DefaultView.png)
+![image](../images/Masque_DefaultView.png)
   
 [Getting Started](../gettingstarted.html)
   
