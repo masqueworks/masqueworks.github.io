@@ -23,7 +23,7 @@ publishable-key="pk_live_51QrsylGOFLTmIJpudO4VBYgvoW3bZS0DBJw47t52wQGY6TU96s6hkP
 | _  Max DMX Gizmos_ | 32 | Unlimited | Unlimited |
 | _  Max Media Files_ | 32 | Unlimited | Unlimited |
 | _  Max Cues_ | 32 | Unlimited | Unlimited |
-|----------------|------------------|------------------|
+|----------------|------------------|------------------|------------------|
 | **Customer Support** | Basic or community support | Priority support | Priority support |
 | **Updates & Upgrades** | Minor updates only | Regular updates & major upgrades | Regular updates |
 
