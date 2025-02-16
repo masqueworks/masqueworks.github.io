@@ -15,7 +15,7 @@ publishable-key="pk_live_51QrsylGOFLTmIJpudO4VBYgvoW3bZS0DBJw47t52wQGY6TU96s6hkP
 | **Usage Duration** | Unlimited | Unlimited | Unlimited |
 | **Feature Access** | Limited core features | Full feature set | Full feature set |
 |----------------|------------------|------------------|------------------|
-| **Customization** | Limited options | Full customization available | Full customization available |
+| **Customization** |  |  |  |
 | * _Max Gizmo Macros_ | 4 | Unlimited | Unlimited |
 | * _Max Gizmo Groups_ | 4 | Unlimited | Unlimited |
 | * _Max Simultaneous Audio_ | 2 | Unlimited | Unlimited |
