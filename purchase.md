@@ -9,6 +9,7 @@ publishable-key="pk_live_51QrsylGOFLTmIJpudO4VBYgvoW3bZS0DBJw47t52wQGY6TU96s6hkP
 </stripe-pricing-table>
 
 # Features
+* _**Masque is currently a Windows only program.**_
 
 | Feature         | Trial     | Perpetual | Subscription |
 |----------------|------------------|------------------|------------------|
