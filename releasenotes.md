@@ -3,7 +3,7 @@ title: Release Notes
 layout: default
 ---
 
-# v0.9.9.10
+# v0.9.9.10 (Feb 15, 2025)
 
 ## New Features  
 - **Device Fixture Duplication**: When duplicating a device fixture, it will now be added as a gizmo per the specified setting.  
