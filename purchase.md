@@ -16,6 +16,7 @@ publishable-key="pk_live_51QrsylGOFLTmIJpudO4VBYgvoW3bZS0DBJw47t52wQGY6TU96s6hkP
 | **Feature Access** | Limited core features | Full feature set | Full feature set |
 |----------------|------------------|------------------|------------------|
 | **Customization** |  |  |  |
+| * _Max Station Devices_ | 1 | Unlimited | Unlimited |
 | * _Max Gizmo Macros_ | 4 | Unlimited | Unlimited |
 | * _Max Gizmo Groups_ | 4 | Unlimited | Unlimited |
 | * _Max Simultaneous Audio_ | 2 | Unlimited | Unlimited |
