@@ -19,4 +19,3 @@ layout: default
 - **Performance Folder Behavior**:  
   - Opening the performance folder now defaults to the correct folder.  
   - Fixed an issue where the performance folder was not being saved properly.  
-- **Media Info Handling**: `UpdateMediaInfo` now has a return type, allowing it to retry if there is an error accessing a file.  
