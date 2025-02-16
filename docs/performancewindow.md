@@ -6,4 +6,4 @@ parent: Documentation
 
 # Performance Window
 
-![image](./images/Masque_DefaultView.png)
+![image](../images/Masque_DefaultView.png)
