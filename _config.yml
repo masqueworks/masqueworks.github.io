@@ -9,6 +9,12 @@ collections:
   docs:
     output: true
 
+nav_external_links:
+  - title: Forums
+    url: https://github.com/masqueworks/masque-app-deploy/discussions
+    hide_icon: true # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
+
 color_scheme: dark
 
 footer_content: "Copyright &copy; 2025 Masque Works, LLC."
