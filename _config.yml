@@ -8,6 +8,10 @@ url: https://masqueworks.com
 collections:
   docs:
     output: true
+
+Navigation:
+- title: Forums
+ url: https://github.com/masqueworks/masque-app-deploy/discussions
     
 color_scheme: dark
 
