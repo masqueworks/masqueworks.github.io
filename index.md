@@ -11,7 +11,8 @@ nav_order: 0
 ----
 <span class="fs-6">
 [Download the Latest Version](https://github.com/masqueworks/masque-app-deploy/releases/download/v0.9.9.10/Masque-0.9.9.10-Installer.msi){: .btn }
-</span> (_**Masque is currently a Windows only program.**_)  
+</span>  
+(_**Masque is currently a Windows only program.**_)  
   
 [Masque-0.9.9.10-Installer.msi](https://github.com/masqueworks/masque-app-deploy/releases/download/v0.9.9.10/Masque-0.9.9.10-Installer.msi)    
   
