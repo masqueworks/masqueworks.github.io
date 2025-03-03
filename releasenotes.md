@@ -4,6 +4,16 @@ layout: default
 parent: Documentation
 ---
 
+# Masque v0.9.9.12 (Mar 2, 2025)
+
+### New Features  
+- **Basic Pitch Shifting for Audio Media**:  
+  - Added a new parameter to audio media that allows pitch shifting by a specified number of tones.  
+
+### Performance Improvements  
+- **Faster Startup Times**:  
+  - Improved application startup by deferring non-essential work until after the main form has loaded and rendered.  
+
 # Masque v0.9.9.11 (Feb 24, 2025)
 
 ### New Features  
