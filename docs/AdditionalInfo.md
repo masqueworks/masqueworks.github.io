@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Canvas and Media Windows
 layout: default
 nav_order: 4
 parent: Documentation
