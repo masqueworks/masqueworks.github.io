@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Running a Performance
 layout: default
 nav_order: 1
 parent: Documentation
