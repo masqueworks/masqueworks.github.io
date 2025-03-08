@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Designing a Show
 layout: default
 nav_order: 3
 parent: Documentation
