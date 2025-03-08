@@ -10,7 +10,7 @@ parent: Documentation
 
 ## Creating Cues
 
-![Cues Window](../Images/Masque_CueListWindow.png)
+![Cues Window](../images/Masque_CueListWindow.png)
 
 ### Cues and Cue Lists
 
@@ -37,7 +37,7 @@ To create a blank cue with no actions:
 
 You can drag **audio and video files** directly onto the cue list. The cues will be added in alphabetical order by name, and each media file will be assigned to a single cue. The system will automatically assign the media to the first available gizmo that can handle it.  
 
-![Property Inspector Cue](../Images/Masque_PropertyInspector_Cue.png)
+![Property Inspector Cue](../images/Masque_PropertyInspector_Cue.png)
 
 In the **Property Inspector**, you can change which gizmo the media is assigned to. The cue can be run in **Design Mode** by:  
 
@@ -53,13 +53,13 @@ To create an **Event Cue**:
 - Toggle the `Isolated` property to **true** in the **Property Inspector**.  
 - Drag the cue from the **Cue List** onto the **Canvas**, creating a button that can trigger it at any time.  
 
-![Event Cues in Canvas](../Images/Masque_Canvas_EventCues.png)
+![Event Cues in Canvas](../images/Masque_Canvas_EventCues.png)
 
 **Note:** Any cue can be dragged onto the Canvas. If a sequential cue is triggered this way, it will be set as the next cue. If it is an isolated/event cue, it will play immediately.
 
 ### Creating Cues from Controls
 
-![Channel Controls](../Images/Masque_Controls.png)
+![Channel Controls](../images/Masque_Controls.png)
 
 To access **Controls**, select a Gizmo from:  
 
@@ -87,8 +87,8 @@ Click the `>>` button to expand a channel for additional options, including:
 - Choosing colors for color channels.  
 - Selecting predefined value ranges.
 
-![Audio Channel Controls](../Images/Masque_Controls_Audio.png)  
-![Video Channel Controls](../Images/Masque_Controls_Video.png)  
+![Audio Channel Controls](../images/Masque_Controls_Audio.png)  
+![Video Channel Controls](../images/Masque_Controls_Video.png)  
 
 Audio and Video gizmos have custom interfaces for better control over their parameters.
 
@@ -116,7 +116,7 @@ Cues can include multiple **actions**, each with properties that define how they
 
 ### Creating Actions from the Timeline
 
-![Timeline Window](../Images/Masque_Timeline.png)
+![Timeline Window](../images/Masque_Timeline.png)
 
 The **Timeline Window** displays all actions for the currently active cue.  
 
