@@ -35,7 +35,7 @@ After setting up a performance, the wizard proceeds to the **New Station Wizard*
 
 ## Setting Up a New Station
 
-![New Station Wizard](../Images/Masque_NewPerformance2.png)
+![New Station Wizard](../images/Masque_NewPerformance2.png)
 
 ### Import a Previous Station
 
@@ -60,12 +60,12 @@ When setting up a **Custom Station**, you can:
 1. Add devices and assign fixtures before completing setup.
 2. Create an empty station and configure it later.
 
-![New Station Wizard: Add Devices](../Images/Masque_NewPerformance3.png)
+![New Station Wizard: Add Devices](../images/Masque_NewPerformance3.png)
 
 Once a station is created, additional fixtures and devices can be added.
 
-![New Station Wizard: Add Lighting Fixtures](../Images/Masque_NewPerformance4.png)
-![New Station Wizard: Add Video Fixtures](../Images/Masque_NewPerformance5.png)
+![New Station Wizard: Add Lighting Fixtures](../images/Masque_NewPerformance4.png)
+![New Station Wizard: Add Video Fixtures](../images/Masque_NewPerformance5.png)
 
 ## Editing Station Information
 
@@ -80,7 +80,7 @@ In the **Property Inspector**, you can export all cues for a station using the *
 
 ## Configuring Devices
 
-![Device Window](../Images/Masque_Devices.png)
+![Device Window](../images/Masque_Devices.png)
 
 The **Device Window** provides device management options:
 
@@ -114,7 +114,7 @@ Each device has three fixture-related buttons:
 - **Show/hide fixture list**
 - **Show/hide fixture channel values**
 
-![Device Window Fixtures](../Images/Masque_Devices_Expanded.png)
+![Device Window Fixtures](../images/Masque_Devices_Expanded.png)
 
 ### Fixture List
 
@@ -131,7 +131,7 @@ Selecting a fixture opens the **Property Inspector**, where you can:
 - Rename fixtures.
 - Change fixture definitions.
 
-![Fixture Property Inspector](../Images/Masque_PropertyInspector_Fixture.png)
+![Fixture Property Inspector](../images/Masque_PropertyInspector_Fixture.png)
 
 If fixture channels overlap, the row is highlighted **red** to indicate a potential misconfiguration.
 
@@ -144,7 +144,7 @@ To quickly configure multiple fixtures of the same type, use the **Duplicate** b
 - **Blank Fixture** – Click **+** to add a new fixture with the most recently used definition.
 - **From Fixture Library** – Open the **Fixture Library Window** to browse and drag a fixture definition onto the device.
 
-![Fixture Library Window](../Images/Masque_FixtureLibrary.png)
+![Fixture Library Window](../images/Masque_FixtureLibrary.png)
 
 ### Creating a Custom Fixture Definition
 
@@ -169,13 +169,13 @@ Using a single Gizmo for multiple **CYC fixtures** simplifies control. To patch 
 1. Open the **Patch Window** (cable button in **Devices Window**).
 2. Drag fixtures onto the Gizmo you want to control them.
 
-![Cyc Fixtures](../Images/Masque_Patch_CycFixturesGizmo.png)
+![Cyc Fixtures](../images/Masque_Patch_CycFixturesGizmo.png)
 
 ## Laying Out Gizmos on the Canvas  
 
 Each Gizmo created is automatically placed on the Canvas. While the system attempts to arrange them logically, they often need adjustment to suit the user's needs.  
 
-![Canvas Window](../Images/Masque_Canvas.png)  
+![Canvas Window](../images/Masque_Canvas.png)  
 
 ### Moving and Aligning Gizmos  
 
