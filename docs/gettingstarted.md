@@ -67,7 +67,7 @@ To switch to **Live Mode**, use the dropdown in the lower-right corner or press 
 
 ## The Cue Window
 
-![Cue List Window](../Images/Masque_CueListWindow.png)
+![Cue List Window](../images/Masque_CueListWindow.png)
 
 ### Cue Lists
 
