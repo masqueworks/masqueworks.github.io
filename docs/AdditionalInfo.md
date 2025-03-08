@@ -13,13 +13,13 @@ Moving past the basics of show designing, there are many ways to make the show m
 
 It is often advantageous to select multiple gizmos at a time to manipulate them as one, without binding them all to the same gizmo. A Group Gizmo allows linking multiple gizmos together so that clicking the Group Gizmo selects all the gizmos linked to it.
 
-You can create a Group Gizmo in the Canvas Window by clicking the ![](../Images/ButtonCanvas_Group.png) button. Any gizmos that are actively selected at the time the Group is created will be linked to the Group Gizmo.
+You can create a Group Gizmo in the Canvas Window by clicking the ![](../images/ButtonCanvas_Group.png) button. Any gizmos that are actively selected at the time the Group is created will be linked to the Group Gizmo.
 
-To modify the selected gizmos, select a new set of gizmos you want linked, then click the Link Button ![](../Images/ButtonCanvas_Link.png) in the Canvas Window, followed by the Group Gizmo you want to modify. It will be updated with the new set of gizmos.
+To modify the selected gizmos, select a new set of gizmos you want linked, then click the Link Button ![](../images/ButtonCanvas_Link.png) in the Canvas Window, followed by the Group Gizmo you want to modify. It will be updated with the new set of gizmos.
 
 ## Macro Gizmos
 
-Macro Gizmos enable limited scripting capabilities. Create a Macro Gizmo by clicking the Macro button ![](../Images/ButtonCanvas_Macro.png). In the Property Editor for this Gizmo, an array of actions can be defined. These actions are executed whenever the button is clicked.
+Macro Gizmos enable limited scripting capabilities. Create a Macro Gizmo by clicking the Macro button ![](../images/ButtonCanvas_Macro.png). In the Property Editor for this Gizmo, an array of actions can be defined. These actions are executed whenever the button is clicked.
 
 Available actions:
 
@@ -85,7 +85,7 @@ Palettes can be used for:
 - **Movers' positions** (e.g., stage right, stage left)
 - **Other channel values**
 
-![Control Window Palettes](../Images/Masque_Controls_Palettes.png)
+![Control Window Palettes](../images/Masque_Controls_Palettes.png)
 
 ### Creating and Using Palettes
 
