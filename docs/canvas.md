@@ -1,4 +1,3 @@
-
 ---
 title: Canvas Window
 layout: default
