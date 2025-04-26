@@ -1,5 +1,6 @@
+
 ---
-title: Running a Performance
+title: Getting Started
 layout: default
 nav_order: 1
 parent: Documentation
@@ -12,7 +13,7 @@ This guide walks you through loading a performance and using the essential featu
 
 ## The Welcome Window
 
-![Welcome Window](../images/Masque_Welcome.png)
+![Welcome Window](../images/Masque_Welcome.png){ width=75% }
 
 The Welcome Window provides quick access to common operations when starting Masque.
 
@@ -24,11 +25,11 @@ When Masque opens, it automatically loads the most recent performance. To load a
 
 A performance consists of multiple stations, each configured for a specific technician. Common setups include:
 
-- **Audio Station** â€“ Manages music and sound effects.
-- **Lighting Station** â€“ Controls DMX fixtures such as lights and smoke machines.
-- **Projection Station** â€“ Manages projected visuals.
+- **Audio Station** – Manages music and sound effects.
+- **Lighting Station** – Controls DMX fixtures such as lights and smoke machines.
+- **Projection Station** – Manages projected visuals.
 
-At the top of the application, the **Performance Bar** features a dropdown menu to switch between available stations. Changing stations also updates the window layout to match the stationâ€™s tasks.
+At the top of the application, the **Performance Bar** features a dropdown menu to switch between available stations. Changing stations also updates the window layout to match the station’s tasks.
 
 ## Device Setup
 
@@ -46,22 +47,22 @@ Masque supports hot-plugging, meaning the list updates as devices are connected 
 
 ## The Performance Bar
 
-![Performance Bar](../images/Masque_PerformanceBar.png)
+![Performance Bar](../images/Masque_PerformanceBar.png){ width=75% }
 
-At the top of the window, youâ€™ll find large **GO** and **STOP** buttons:
+At the top of the window, you’ll find large **GO** and **STOP** buttons:
 
 - **GO** advances to and runs the next cue.
 - **STOP** halts the current cue.
 
 Cue details are displayed:
 
-- **Current Cue** â€“ Shows the most recently played cue.
-- **Next Cue** â€“ Displays the upcoming cue.
+- **Current Cue** – Shows the most recently played cue.
+- **Next Cue** – Displays the upcoming cue.
 
-The Performance Bar also displays the active station and Masqueâ€™s mode:
+The Performance Bar also displays the active station and Masque’s mode:
 
-- **Live Mode** â€“ For running shows.
-- **Design Mode** â€“ For making changes.
+- **Live Mode** – For running shows.
+- **Design Mode** – For making changes.
 
 To switch to **Live Mode**, use the dropdown in the lower-right corner or press **F2**.
 
@@ -88,26 +89,19 @@ Use the **Prev** and **Next** buttons on the left to select the next cue manuall
 
 Each station has **Master Fade** controls for:
 
-- **Audio** â€“ Adjusts volume levels.
-- **Video** â€“ Fades or cuts to black.
-- **DMX** â€“ Controls lighting intensity or blackout.
+- **Audio** – Adjusts volume levels.
+- **Video** – Fades or cuts to black.
+- **DMX** – Controls lighting intensity or blackout.
 
 Click the tilted **hamburger button** to reset a Master Fade to its default value.
 
-## The Canvas and Controls Windows
+## Performance Windows
 
-![Canvas Window](../images/Masque_Canvas.png)
-
-The **Canvas Window** lets designers arrange gizmosâ€”controls that manage device fixtures. Clicking a gizmo opens additional controls for real-time adjustments, useful for DMX lighting.
-
-![Controls Window](../images/Masque_Controls.png)
-
-To restore a channel to its cued value, click the tilted **hamburger button**.
-
-## The Timeline Window
-
-![Timeline Window](../images/Masque_Timeline.png)
-
-The **Timeline Window** visualizes all actions in the current cue. It provides play, pause, advance, and fallback controls, useful for repeating specific audio cue sections during rehearsals.
+- **Canvas Window** - lets designers arrange gizmos—controls that manage device fixtures. Clicking a gizmo opens additional controls for real-time adjustments, useful for DMX lighting.
+- **Controls Window** - provides direct access to gizmo channels for fine-tuning. It also displays the current cue’s channel values.
+- **Timeline Window** - visualizes all actions in the current cue. It provides play, pause, advance, and fallback controls, useful for repeating specific audio cue sections during rehearsals.
+- **Drivers Window** - offers advanced control over gizmos, including the ability to create custom drivers for complex effects.
+- **Devices Window** - provides device management options, including adding new DMX, audio, or video devices and assigning fixtures to those devices.
+- **Inspector Window** - displays detailed information about the selected gizmo, cue, or driver.
 
 ---
