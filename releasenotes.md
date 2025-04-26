@@ -3,6 +3,64 @@ title: Release Notes
 layout: default
 parent: Documentation
 ---
+# Masque v0.9.10.8 (Apr 26, 2025)
+
+## Timeline and Media
+- Fixed stretched images in the Timeline and improved scrubbing.
+- Better handling of infinite actions; Timeline length now calculated from max media length.
+- Play Media Clip includes `MediaEndTime` for better looping; Play Action Duration now reports correctly.
+- Clear selection button updated with new icon; scrubbing and multi-selection improved.
+
+## Inspector, Canvas, and Palettes
+- Clear Experimental Values button added.
+- Palette list separated from media list for better filtering.
+- New dialogs for creating Effects and Palettes; Effects saved immediately.
+- Added friendly names to Effect channel dropdowns and reordered lists for clarity.
+- Inspector improvements for selecting and editing collection items.
+
+## Audio and Gizmo Control
+- Removed Audio Mute channel; Mute is now runtime and handled cleanly.
+- Audio auditioning respects master fader and media settings.
+- Fixes to selections and link releases in the Controls window.
+- Deleting fixtures properly syncs with associated gizmos.
+
+## Cues and Macros
+- Added `StopCue` macro action.
+- Cue linking and AutoFollow improved to consider disabled cues.
+- Better Save As behavior to maintain Macro links and recent lists.
+- Inspector now shows cue ID and name for macro targeting.
+
+## Fixture and Device Management
+- Dragging fixture definitions works correctly; patches update properly.
+- Fixes for Station Wizard crashes and fixture creation bugs.
+- Removing gizmos updates the venue patch correctly.
+- Improved dragging behavior in the Devices and Canvas views.
+
+## System and Undo/Redo
+- Duplicating cues and actions now uses serialization.
+- Undo system cleaned and reset after performance loading.
+- Clearer feedback when modifying palettes and driver connections.
+- Performance window shows loop counts; isolated cues no longer affect NextCue.
+
+## Documentation and Publishing
+- Documentation updates included in publishing.
+- Welcome Window respects "Don't Show" setting.
+- License purchase flow improved.
+- Added offline documentation access from the app.
+
+## NEW Drivers Window
+- Allows driving channels with a node based graph
+- Added logic nodes (Clamp, Accumulator, etc.), virtual faders, and gamepad support.
+- Better serialization and undo/redo support for nodes.
+- Preview features handling clarified.
+
+## General Improvements and Fixes
+- Fixed experimental value handling across media and palettes.
+- Improved performance cue layout and UI tweaks across views.
+- Additional code cleanups, better defaults (e.g., pulse period = 1).
+- Improved error handling during Save As and station importing.
+
+---
 
 # Masque v0.9.9.12 (Mar 2, 2025)
 
