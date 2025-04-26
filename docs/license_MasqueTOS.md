@@ -1,4 +1,3 @@
-
 ---
 title: Terms of Service
 layout: default

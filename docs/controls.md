@@ -1,4 +1,3 @@
-
 ---
 title: Controls Window
 layout: default

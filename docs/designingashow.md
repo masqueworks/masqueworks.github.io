@@ -1,4 +1,3 @@
-
 ---
 title: Designing a Show
 layout: default

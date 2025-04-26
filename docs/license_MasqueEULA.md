@@ -1,4 +1,3 @@
-
 ---
 title: End-User License Agreement
 layout: default

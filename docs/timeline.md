@@ -1,4 +1,3 @@
-
 ---
 title: Timeline Window
 layout: default

@@ -1,4 +1,3 @@
-
 ---
 title: Devices Window
 layout: default

@@ -1,4 +1,3 @@
-
 ---
 title: Setting up a Station
 layout: default
