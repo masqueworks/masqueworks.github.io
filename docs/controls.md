@@ -1,4 +1,4 @@
-﻿---
+---
 title: Controls Window
 layout: default
 nav_order: 6
