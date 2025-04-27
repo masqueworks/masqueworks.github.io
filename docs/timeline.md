@@ -1,4 +1,4 @@
-﻿---
+---
 title: Timeline Window
 layout: default
 nav_order: 8
