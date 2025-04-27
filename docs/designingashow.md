@@ -1,4 +1,4 @@
-﻿---
+---
 title: Designing a Show
 layout: default
 nav_order: 3
