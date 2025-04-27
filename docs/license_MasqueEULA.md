@@ -1,4 +1,4 @@
-﻿---
+---
 title: End-User License Agreement
 layout: default
 nav_order: 11
