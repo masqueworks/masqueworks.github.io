@@ -1,4 +1,4 @@
-﻿---
+---
 title: Privacy Policy
 layout: default
 nav_order: 12
