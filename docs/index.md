@@ -1,4 +1,4 @@
-﻿---
+---
 title: Masque
 subtitle: v0.9.10.8 BETA
 ---
