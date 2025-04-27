@@ -1,4 +1,4 @@
-﻿---
+---
 title: Media Window
 layout: default
 nav_order: 5
