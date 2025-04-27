@@ -1,4 +1,4 @@
----
+﻿---
 title: Terms of Service
 layout: default
 nav_order: 13
@@ -9,9 +9,9 @@ parent: Documentation
 
 Terms of Service
 
-Effective Date: {RELEASE_DATE}
+Effective Date: 
 
-These Terms of Service ("Terms") govern your access to and use of {APP_NAME} ("Application"), provided by {COMPANY_NAME} ("we," "our," or "us").
+These Terms of Service ("Terms") govern your access to and use of Masque ("Application"), provided by Masque Works, LLC ("we," "our," or "us").
 
 1. Acceptance of Terms
 
@@ -33,13 +33,13 @@ You may not:
 
 Use the Application for unlawful purposes.
 
-Interfere with or disrupt the Application�s functionality.
+Interfere with or disrupt the Application’s functionality.
 
 Attempt to gain unauthorized access to our systems.
 
 5. Intellectual Property
 
-The Application and its content, features, and functionality are owned by {COMPANY_NAME}. You may not reproduce, distribute, or create derivative works without permission.
+The Application and its content, features, and functionality are owned by Masque Works, LLC. You may not reproduce, distribute, or create derivative works without permission.
 
 6. Termination
 
@@ -68,6 +68,6 @@ We may update these Terms from time to time. Continued use of the Application co
 12. Contact Us
 
 For any questions, please contact us at:\
-{COMPANY_NAME}\
-<{CONTACT_EMAIL}>\
-{COMPANY_WEBSITE}
+Masque Works, LLC\
+<contact@masqueworks>\
+[www.masqueworks.com]

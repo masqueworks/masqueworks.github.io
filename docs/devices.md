@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Devices Window
 layout: default
 nav_order: 9
@@ -11,10 +11,10 @@ parent: Documentation
 
 The **Device Window** provides device management options:
 
-- **Top-left corner** – Add new **DMX, Audio, or Video** devices.
-- **Top-right corner** – Open the **Patch Window** and **Fixture Library**.
-- **Middle section** – Displays the active **Venue** (only one supported).
-- **Device List** – Shows available devices, their configurations, and outputs.
+- **Top-left corner** â€“ Add new **DMX, Audio, or Video** devices.
+- **Top-right corner** â€“ Open the **Patch Window** and **Fixture Library**.
+- **Middle section** â€“ Displays the active **Venue** (only one supported).
+- **Device List** â€“ Shows available devices, their configurations, and outputs.
 
 ### Selecting Device Outputs
 
@@ -30,8 +30,8 @@ The **Device Window** provides device management options:
 
 #### Video Output
 
-- **Preview Window** – Resizable within the application.
-- **Monitor or Projector** – Fullscreen output for external displays.
+- **Preview Window** â€“ Resizable within the application.
+- **Monitor or Projector** â€“ Fullscreen output for external displays.
 
 ## Adding Fixtures
 
@@ -68,8 +68,8 @@ To quickly configure multiple fixtures of the same type, use the **Duplicate** b
 
 ### Adding a Fixture
 
-- **Blank Fixture** – Click **+** to add a new fixture with the most recently used definition.
-- **From Fixture Library** – Open the **Fixture Library Window** to browse and drag a fixture definition onto the device.
+- **Blank Fixture** â€“ Click **+** to add a new fixture with the most recently used definition.
+- **From Fixture Library** â€“ Open the **Fixture Library Window** to browse and drag a fixture definition onto the device.
 
 ![Fixture Library Window](../images/Masque_FixtureLibrary.png)
 
@@ -86,8 +86,8 @@ For **DMX devices**, fixture definitions are sourced from [Open Fixture Library]
 
 By default, Masque generates a **Gizmo** for each fixture in a Venue. This behavior can be adjusted in settings.
 
-- **Single Gizmo -> Single Fixture** – Renaming affects both.
-- **Single Gizmo -> Multiple Fixtures** – Allows controlling multiple fixtures as one.
+- **Single Gizmo -> Single Fixture** â€“ Renaming affects both.
+- **Single Gizmo -> Multiple Fixtures** â€“ Allows controlling multiple fixtures as one.
 
 ### Case Study: Controlling Multiple CYC Fixtures with One Gizmo
 

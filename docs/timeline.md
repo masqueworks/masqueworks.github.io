@@ -1,4 +1,4 @@
----
+﻿---
 title: Timeline Window
 layout: default
 nav_order: 8
@@ -16,7 +16,7 @@ The **Timeline Window** visualizes all actions in the current cue. It provides p
 
 The **Timeline Window** displays all actions for the currently active cue.  
 
-- Use the **scrub bar** to move through the cue�s actions.  
+- Use the **scrub bar** to move through the cue’s actions.  
 - When the cue is playing, playback controls appear at the bottom of the Timeline Window, allowing you to:  
   - **Pause**  
   - **Restart**  

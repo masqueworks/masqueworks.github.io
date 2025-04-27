@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Setting up a Station
 layout: default
 nav_order: 2
@@ -12,11 +12,11 @@ A **Station** contains cue lists, cues, actions, and gizmos. It also includes a 
 
 You can create a new **Station** through the **Performance Wizard** or by clicking the **+** button on the **Performance Bar** next to the station selection dropdown.
 
-All **Venue** information is available in the **Devices Window**, accessible from the app’s sidebar.
+All **Venue** information is available in the **Devices Window**, accessible from the appâ€™s sidebar.
 
 ## Creating a New Performance
 
-To set up a Station, you need a **Performance**. If you’re not using an existing one, create a new Performance from the **Welcome Screen** or **Menu dropdown**.
+To set up a Station, you need a **Performance**. If youâ€™re not using an existing one, create a new Performance from the **Welcome Screen** or **Menu dropdown**.
 
 ### New Performance Wizard
 
@@ -49,9 +49,9 @@ Importing a station preserves **devices, fixtures, and patching** from an existi
 
 These pre-configured stations help you get started quickly:
 
-- **Audio Station** – Includes default audio track fixtures.
-- **Projection Station** – Comes with preconfigured video layer fixtures.
-- **Lighting Station** – No default fixtures (as setups vary per production).
+- **Audio Station** â€“ Includes default audio track fixtures.
+- **Projection Station** â€“ Comes with preconfigured video layer fixtures.
+- **Lighting Station** â€“ No default fixtures (as setups vary per production).
 
 ### Create a Custom Station
 
@@ -87,8 +87,8 @@ Each device has a drop-down that defines what target the device is writing out t
 ### Adding Fixtures
 
 - Click the Cable button to show all fixtures on this device.
-- **Blank Fixture** – Click **+** to add a new fixture with the most recently used definition.
-- **From Fixture Library** – Open the **Fixture Library Window** to browse and drag a fixture definition onto the device.
+- **Blank Fixture** â€“ Click **+** to add a new fixture with the most recently used definition.
+- **From Fixture Library** â€“ Open the **Fixture Library Window** to browse and drag a fixture definition onto the device.
 
 ### Duplicating Fixtures
 

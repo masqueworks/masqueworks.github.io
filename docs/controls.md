@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Controls Window
 layout: default
 nav_order: 6
@@ -34,8 +34,8 @@ Cued values are the results of actions taken in the cueing system. This is the l
 
 ## Control Groups
 
-- **Simple Fader** – Controls a single channel.
-- **Color Fader** – Controls multiple channels, such as RGB. Shows the mixed color and the individual RGB colors. The expanded view shows a list of color options.
+- **Simple Fader** â€“ Controls a single channel.
+- **Color Fader** â€“ Controls multiple channels, such as RGB. Shows the mixed color and the individual RGB colors. The expanded view shows a list of color options.
 - **Video Fader** - Shows customized controls for Video playback.
 - **Audio Fader** - Shows customized controls for Audio playback. Includes Pan, Pitch, and Gain controls.
 

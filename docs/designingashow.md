@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Designing a Show
 layout: default
 nav_order: 3
@@ -96,8 +96,8 @@ Audio and Video gizmos have custom interfaces for better control over their para
 
 Once Gizmo channels are adjusted, you can record them into a cue using two buttons in the left **Controls Window** sidebar:  
 
-- **Delta Recording** (Cue symbol with a triangle) – Saves modified values to the **currently active cue**.  
-- **New Recording** (Cue symbol with a plus) – Creates a **new cue** directly after the active cue and records the modified values.  
+- **Delta Recording** (Cue symbol with a triangle) â€“ Saves modified values to the **currently active cue**.  
+- **New Recording** (Cue symbol with a plus) â€“ Creates a **new cue** directly after the active cue and records the modified values.  
 
 To verify the recorded values, navigate to the previous cue and then back to the newly recorded cue.
 
@@ -107,12 +107,12 @@ To verify the recorded values, navigate to the previous cue and then back to the
 
 Cues can include multiple **actions**, each with properties that define how they interact with Gizmos. Some available actions include:
 
-- **Play Media Action** – Plays a media file on a Gizmo.  
-- **Set Value** – Gradually changes a channel value over time.  
-- **Set Home** – Returns a channel to its defined home value.  
-- **Play Effect** – Runs an effect on a Gizmo, targeting multiple channels.  
-- **Set Palette** – Applies predefined values from a palette.  
-- **Stop Cue** – Instantly stops a playing cue.
+- **Play Media Action** â€“ Plays a media file on a Gizmo.  
+- **Set Value** â€“ Gradually changes a channel value over time.  
+- **Set Home** â€“ Returns a channel to its defined home value.  
+- **Play Effect** â€“ Runs an effect on a Gizmo, targeting multiple channels.  
+- **Set Palette** â€“ Applies predefined values from a palette.  
+- **Stop Cue** â€“ Instantly stops a playing cue.
 
 You can also create Actions in the Timeline Window. See the [Timeline Window](Timeline.md) documentation for more information.
 

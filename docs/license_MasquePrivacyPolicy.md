@@ -1,4 +1,4 @@
----
+﻿---
 title: Privacy Policy
 layout: default
 nav_order: 12
@@ -9,9 +9,9 @@ parent: Documentation
 
 Privacy Policy
 
-Effective Date: {RELEASE_DATE}
+Effective Date: 
 
-{COMPANY_NAME} ("we," "our," or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use {APP_NAME} ("Application").
+Masque Works, LLC ("we," "our," or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use Masque ("Application").
 
 1. Information We Collect
 
@@ -63,7 +63,7 @@ Restrict or object to data processing.
 
 Withdraw consent where applicable.
 
-To exercise these rights, contact us at <{CONTACT_EMAIL}>.
+To exercise these rights, contact us at <contact@masqueworks>.
 
 5. Data Security
 
@@ -84,6 +84,6 @@ We may update this Privacy Policy from time to time. Changes will be notified th
 9. Contact Us
 
 For any questions, please contact us at:\
-{COMPANY_NAME}\
-<{CONTACT_EMAIL}>\
-{COMPANY_WEBSITE}
+Masque Works, LLC\
+<contact@masqueworks>\
+[www.masqueworks.com]
