@@ -1,4 +1,4 @@
-﻿---
+---
 title: Devices Window
 layout: default
 nav_order: 9
