@@ -1,4 +1,4 @@
-﻿---
+---
 title: Setting up a Station
 layout: default
 nav_order: 2
