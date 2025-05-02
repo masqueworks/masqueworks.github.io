@@ -21,13 +21,17 @@ Cues can be configured to trigger at different times, create sequential effects,
 
 In **Design Mode**, the currently active cue is highlighted in green, indicating that any modifications will apply to it.
 
-### Creating Blank Cues
+### Adding Cues
 
-To create a blank cue with no actions:  
+To create a cue:  
 
 - Click the **Add** button on the left sidebar of the cue list.  
-- This will create a new cue at the bottom of the list and make it active.  
-- You can then add actions by:  
+- This will give you four options:
+	- **Add Cue from Media** ? Creates a new cue from a media file.
+	- **Add Cue from Control Values** ? Creates a new cue from the changed values in the Controls Window.
+	- **Duplicate Selected Cue** ? Duplicates the currently selected cue and places it after the selected cue.
+  - **Add Empty Cue** ? Creates a new cue after the currently selected cue.
+- You can then add additional actions by:  
   - Dragging a media file onto the cue.  
   - Recording new channel values in the **Controls Window**.  
   - Adding new action tracks in the **Timeline Window**.
@@ -96,8 +100,8 @@ Audio and Video gizmos have custom interfaces for better control over their para
 
 Once Gizmo channels are adjusted, you can record them into a cue using two buttons in the left **Controls Window** sidebar:  
 
-- **Delta Recording** (Cue symbol with a triangle) – Saves modified values to the **currently active cue**.  
-- **New Recording** (Cue symbol with a plus) – Creates a **new cue** directly after the active cue and records the modified values.  
+- **Delta Recording** (Cue symbol with a triangle) ? Saves modified values to the **currently active cue**.  
+- **New Recording** (Cue symbol with a plus) ? Creates a **new cue** directly after the active cue and records the modified values.  
 
 To verify the recorded values, navigate to the previous cue and then back to the newly recorded cue.
 
@@ -107,12 +111,12 @@ To verify the recorded values, navigate to the previous cue and then back to the
 
 Cues can include multiple **actions**, each with properties that define how they interact with Gizmos. Some available actions include:
 
-- **Play Media Action** – Plays a media file on a Gizmo.  
-- **Set Value** – Gradually changes a channel value over time.  
-- **Set Home** – Returns a channel to its defined home value.  
-- **Play Effect** – Runs an effect on a Gizmo, targeting multiple channels.  
-- **Set Palette** – Applies predefined values from a palette.  
-- **Stop Cue** – Instantly stops a playing cue.
+- **Play Media Action** ? Plays a media file on a Gizmo.  
+- **Set Value** ? Gradually changes a channel value over time.  
+- **Set Home** ? Returns a channel to its defined home value.  
+- **Play Effect** ? Runs an effect on a Gizmo, targeting multiple channels.  
+- **Set Palette** ? Applies predefined values from a palette.  
+- **Stop Cue** ? Instantly stops a playing cue.
 
 You can also create Actions in the Timeline Window. See the [Timeline Window](Timeline.md) documentation for more information.
 
