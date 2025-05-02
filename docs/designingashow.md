@@ -27,10 +27,10 @@ To create a cue:
 
 - Click the **Add** button on the left sidebar of the cue list.  
 - This will give you four options:
-	- **Add Cue from Media** ? Creates a new cue from a media file.
-	- **Add Cue from Control Values** ? Creates a new cue from the changed values in the Controls Window.
-	- **Duplicate Selected Cue** ? Duplicates the currently selected cue and places it after the selected cue.
-  - **Add Empty Cue** ? Creates a new cue after the currently selected cue.
+	- **Add Cue from Media** - Creates a new cue from a media file.
+	- **Add Cue from Control Values** - Creates a new cue from the changed values in the Controls Window.
+	- **Duplicate Selected Cue** - Duplicates the currently selected cue and places it after the selected cue.
+  - **Add Empty Cue** - Creates a new cue after the currently selected cue.
 - You can then add additional actions by:  
   - Dragging a media file onto the cue.  
   - Recording new channel values in the **Controls Window**.  
